@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "longest_distance_array/1.0.0": {
+        "runtime": {
+          "longest_distance_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "longest_distance_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

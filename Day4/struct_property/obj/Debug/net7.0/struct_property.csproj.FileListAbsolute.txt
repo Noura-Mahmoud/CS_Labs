@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\bin\Debug\net7.0\struct_property.exe
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\bin\Debug\net7.0\struct_property.deps.json
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\bin\Debug\net7.0\struct_property.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\bin\Debug\net7.0\struct_property.dll
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\bin\Debug\net7.0\struct_property.pdb
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.dll
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\refint\struct_property.dll
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.pdb
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\struct_property.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day4\struct_property\obj\Debug\net7.0\ref\struct_property.dll

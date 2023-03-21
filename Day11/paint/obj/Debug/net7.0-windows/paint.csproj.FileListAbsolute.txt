@@ -1,0 +1,17 @@
+G:\ITI_mobile cross\C#\Labs\Day11\paint\bin\Debug\net7.0-windows\paint.exe
+G:\ITI_mobile cross\C#\Labs\Day11\paint\bin\Debug\net7.0-windows\paint.deps.json
+G:\ITI_mobile cross\C#\Labs\Day11\paint\bin\Debug\net7.0-windows\paint.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day11\paint\bin\Debug\net7.0-windows\paint.dll
+G:\ITI_mobile cross\C#\Labs\Day11\paint\bin\Debug\net7.0-windows\paint.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.Form1.resources
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.csproj.GenerateResource.cache
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.dll
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\refint\paint.dll
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\paint.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day11\paint\obj\Debug\net7.0-windows\ref\paint.dll

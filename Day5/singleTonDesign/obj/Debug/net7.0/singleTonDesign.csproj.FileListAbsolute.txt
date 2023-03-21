@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\bin\Debug\net7.0\singleTonDesign.exe
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\bin\Debug\net7.0\singleTonDesign.deps.json
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\bin\Debug\net7.0\singleTonDesign.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\bin\Debug\net7.0\singleTonDesign.dll
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\bin\Debug\net7.0\singleTonDesign.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.dll
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\refint\singleTonDesign.dll
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\singleTonDesign.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day5\singleTonDesign\obj\Debug\net7.0\ref\singleTonDesign.dll

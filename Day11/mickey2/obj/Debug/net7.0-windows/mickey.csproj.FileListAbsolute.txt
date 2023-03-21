@@ -1,0 +1,51 @@
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\bin\Debug\net7.0-windows\mickey.exe
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\bin\Debug\net7.0-windows\mickey.deps.json
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\bin\Debug\net7.0-windows\mickey.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\bin\Debug\net7.0-windows\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\bin\Debug\net7.0-windows\mickey.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.Form1.resources
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.csproj.GenerateResource.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\refint\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\mickey.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey\obj\Debug\net7.0-windows\ref\mickey.dll
+D:\ITIintake-43\c#\mickey\bin\Debug\net7.0-windows\mickey.exe
+D:\ITIintake-43\c#\mickey\bin\Debug\net7.0-windows\mickey.deps.json
+D:\ITIintake-43\c#\mickey\bin\Debug\net7.0-windows\mickey.runtimeconfig.json
+D:\ITIintake-43\c#\mickey\bin\Debug\net7.0-windows\mickey.dll
+D:\ITIintake-43\c#\mickey\bin\Debug\net7.0-windows\mickey.pdb
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.csproj.AssemblyReference.cache
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.Form1.resources
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.csproj.GenerateResource.cache
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.AssemblyInfoInputs.cache
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.AssemblyInfo.cs
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.csproj.CoreCompileInputs.cache
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.dll
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\refint\mickey.dll
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.pdb
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\mickey.genruntimeconfig.cache
+D:\ITIintake-43\c#\mickey\obj\Debug\net7.0-windows\ref\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\bin\Debug\net7.0-windows\mickey.exe
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\bin\Debug\net7.0-windows\mickey.deps.json
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\bin\Debug\net7.0-windows\mickey.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\bin\Debug\net7.0-windows\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\bin\Debug\net7.0-windows\mickey.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.Form1.resources
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.csproj.GenerateResource.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\refint\mickey.dll
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\mickey.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day11\mickey2\obj\Debug\net7.0-windows\ref\mickey.dll

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{4FED2C2A-74C0-4DFF-94D9-3CD9FAFC0CE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "..\BLL\BLL.csproj", "{C24A5AC3-8C07-418E-8C2D-D821D5AB396B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "formGridView", "..\formGridView\formGridView.csproj", "{ECD15D89-8EF6-4C86-9308-5DCC35397268}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "formDetailedView", "..\formDetailedView\formDetailedView.csproj", "{32DD4DC5-07DD-4FE5-8C37-2DBBEB48E3E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "form spare", "form spare", "{28F67FF7-D541-4CAD-9ED5-F260BCB1A5F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\formGridView\Form1.cs = ..\formGridView\Form1.cs
+		..\formDetailedView\Form1.cs = ..\formDetailedView\Form1.cs
+		..\formGridView\Form1.Designer.cs = ..\formGridView\Form1.Designer.cs
+		..\formDetailedView\Form1.Designer.cs = ..\formDetailedView\Form1.Designer.cs
+		..\formGridView\Form1.resx = ..\formGridView\Form1.resx
+		..\formDetailedView\Form1.resx = ..\formDetailedView\Form1.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FED2C2A-74C0-4DFF-94D9-3CD9FAFC0CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FED2C2A-74C0-4DFF-94D9-3CD9FAFC0CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FED2C2A-74C0-4DFF-94D9-3CD9FAFC0CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FED2C2A-74C0-4DFF-94D9-3CD9FAFC0CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24A5AC3-8C07-418E-8C2D-D821D5AB396B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24A5AC3-8C07-418E-8C2D-D821D5AB396B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24A5AC3-8C07-418E-8C2D-D821D5AB396B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24A5AC3-8C07-418E-8C2D-D821D5AB396B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD15D89-8EF6-4C86-9308-5DCC35397268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD15D89-8EF6-4C86-9308-5DCC35397268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD15D89-8EF6-4C86-9308-5DCC35397268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD15D89-8EF6-4C86-9308-5DCC35397268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DD4DC5-07DD-4FE5-8C37-2DBBEB48E3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DD4DC5-07DD-4FE5-8C37-2DBBEB48E3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DD4DC5-07DD-4FE5-8C37-2DBBEB48E3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DD4DC5-07DD-4FE5-8C37-2DBBEB48E3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D762AE1-2A93-4360-9A79-578FDE82AC8A}
+	EndGlobalSection
+EndGlobal

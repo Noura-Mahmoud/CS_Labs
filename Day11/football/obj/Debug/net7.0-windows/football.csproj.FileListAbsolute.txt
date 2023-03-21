@@ -1,0 +1,17 @@
+G:\ITI_mobile cross\C#\Labs\Day11\football\bin\Debug\net7.0-windows\football.exe
+G:\ITI_mobile cross\C#\Labs\Day11\football\bin\Debug\net7.0-windows\football.deps.json
+G:\ITI_mobile cross\C#\Labs\Day11\football\bin\Debug\net7.0-windows\football.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day11\football\bin\Debug\net7.0-windows\football.dll
+G:\ITI_mobile cross\C#\Labs\Day11\football\bin\Debug\net7.0-windows\football.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.Form1.resources
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.csproj.GenerateResource.cache
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.dll
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\refint\football.dll
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\football.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day11\football\obj\Debug\net7.0-windows\ref\football.dll

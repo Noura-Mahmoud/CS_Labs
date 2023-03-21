@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day10\linq\bin\Debug\net7.0\linq.exe
+G:\ITI_mobile cross\C#\Labs\Day10\linq\bin\Debug\net7.0\linq.deps.json
+G:\ITI_mobile cross\C#\Labs\Day10\linq\bin\Debug\net7.0\linq.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day10\linq\bin\Debug\net7.0\linq.dll
+G:\ITI_mobile cross\C#\Labs\Day10\linq\bin\Debug\net7.0\linq.pdb
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.dll
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\refint\linq.dll
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.pdb
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\linq.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day10\linq\obj\Debug\net7.0\ref\linq.dll

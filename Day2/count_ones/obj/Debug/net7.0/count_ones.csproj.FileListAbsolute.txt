@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\bin\Debug\net7.0\count_ones.exe
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\bin\Debug\net7.0\count_ones.deps.json
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\bin\Debug\net7.0\count_ones.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\bin\Debug\net7.0\count_ones.dll
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\bin\Debug\net7.0\count_ones.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.dll
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\refint\count_ones.dll
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\count_ones.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day2\count_ones\obj\Debug\net7.0\ref\count_ones.dll

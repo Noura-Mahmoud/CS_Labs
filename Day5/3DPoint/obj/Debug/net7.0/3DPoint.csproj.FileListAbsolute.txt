@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\bin\Debug\net7.0\3DPoint.exe
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\bin\Debug\net7.0\3DPoint.deps.json
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\bin\Debug\net7.0\3DPoint.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\bin\Debug\net7.0\3DPoint.dll
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\bin\Debug\net7.0\3DPoint.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.dll
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\refint\3DPoint.dll
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\3DPoint.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day5\3DPoint\obj\Debug\net7.0\ref\3DPoint.dll

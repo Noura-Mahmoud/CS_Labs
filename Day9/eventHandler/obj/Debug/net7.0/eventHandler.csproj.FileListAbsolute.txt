@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\bin\Debug\net7.0\eventHandler.exe
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\bin\Debug\net7.0\eventHandler.deps.json
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\bin\Debug\net7.0\eventHandler.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\bin\Debug\net7.0\eventHandler.dll
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\bin\Debug\net7.0\eventHandler.pdb
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.dll
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\refint\eventHandler.dll
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.pdb
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\eventHandler.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day9\eventHandler\obj\Debug\net7.0\ref\eventHandler.dll

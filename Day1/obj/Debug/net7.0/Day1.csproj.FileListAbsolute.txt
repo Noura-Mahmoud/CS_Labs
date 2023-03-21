@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Day1\bin\Debug\net7.0\Day1.exe
+G:\ITI_mobile cross\C#\Day1\bin\Debug\net7.0\Day1.deps.json
+G:\ITI_mobile cross\C#\Day1\bin\Debug\net7.0\Day1.runtimeconfig.json
+G:\ITI_mobile cross\C#\Day1\bin\Debug\net7.0\Day1.dll
+G:\ITI_mobile cross\C#\Day1\bin\Debug\net7.0\Day1.pdb
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.dll
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\refint\Day1.dll
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.pdb
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\Day1.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Day1\obj\Debug\net7.0\ref\Day1.dll

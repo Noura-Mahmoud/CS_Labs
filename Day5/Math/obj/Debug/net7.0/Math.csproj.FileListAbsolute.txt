@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Math\bin\Debug\net7.0\Math.exe
+G:\ITI_mobile cross\C#\Labs\Day5\Math\bin\Debug\net7.0\Math.deps.json
+G:\ITI_mobile cross\C#\Labs\Day5\Math\bin\Debug\net7.0\Math.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day5\Math\bin\Debug\net7.0\Math.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Math\bin\Debug\net7.0\Math.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\refint\Math.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\Math.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Math\obj\Debug\net7.0\ref\Math.dll

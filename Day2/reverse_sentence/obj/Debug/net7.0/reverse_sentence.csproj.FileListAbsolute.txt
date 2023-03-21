@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\bin\Debug\net7.0\reverse_sentence.exe
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\bin\Debug\net7.0\reverse_sentence.deps.json
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\bin\Debug\net7.0\reverse_sentence.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\bin\Debug\net7.0\reverse_sentence.dll
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\bin\Debug\net7.0\reverse_sentence.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.dll
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\refint\reverse_sentence.dll
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\reverse_sentence.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day2\reverse_sentence\obj\Debug\net7.0\ref\reverse_sentence.dll

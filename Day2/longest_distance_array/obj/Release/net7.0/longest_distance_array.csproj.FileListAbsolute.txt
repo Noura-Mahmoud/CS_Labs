@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\bin\Release\net7.0\longest_distance_array.exe
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\bin\Release\net7.0\longest_distance_array.deps.json
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\bin\Release\net7.0\longest_distance_array.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\bin\Release\net7.0\longest_distance_array.dll
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\bin\Release\net7.0\longest_distance_array.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.dll
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\refint\longest_distance_array.dll
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.pdb
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\longest_distance_array.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day2\longest_distance_array\obj\Release\net7.0\ref\longest_distance_array.dll

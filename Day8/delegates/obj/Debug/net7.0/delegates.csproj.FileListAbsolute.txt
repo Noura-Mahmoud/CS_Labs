@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\bin\Debug\net7.0\delegates.exe
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\bin\Debug\net7.0\delegates.deps.json
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\bin\Debug\net7.0\delegates.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\bin\Debug\net7.0\delegates.dll
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\bin\Debug\net7.0\delegates.pdb
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.dll
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\refint\delegates.dll
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.pdb
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\delegates.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day8\delegates\obj\Debug\net7.0\ref\delegates.dll

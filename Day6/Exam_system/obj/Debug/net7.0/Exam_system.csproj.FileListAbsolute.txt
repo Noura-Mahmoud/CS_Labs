@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\bin\Debug\net7.0\Exam_system.exe
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\bin\Debug\net7.0\Exam_system.deps.json
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\bin\Debug\net7.0\Exam_system.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\bin\Debug\net7.0\Exam_system.dll
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\bin\Debug\net7.0\Exam_system.pdb
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.dll
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\refint\Exam_system.dll
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.pdb
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\Exam_system.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day6\Exam_system\obj\Debug\net7.0\ref\Exam_system.dll

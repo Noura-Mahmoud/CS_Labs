@@ -1,0 +1,15 @@
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\bin\Debug\net7.0\Duration.exe
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\bin\Debug\net7.0\Duration.deps.json
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\bin\Debug\net7.0\Duration.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\bin\Debug\net7.0\Duration.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\bin\Debug\net7.0\Duration.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\refint\Duration.dll
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.pdb
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\Duration.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day5\Duration\obj\Debug\net7.0\ref\Duration.dll

@@ -1,0 +1,17 @@
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\bin\Debug\net7.0-windows\DragDropRect.exe
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\bin\Debug\net7.0-windows\DragDropRect.deps.json
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\bin\Debug\net7.0-windows\DragDropRect.runtimeconfig.json
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\bin\Debug\net7.0-windows\DragDropRect.dll
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\bin\Debug\net7.0-windows\DragDropRect.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.csproj.AssemblyReference.cache
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.Form1.resources
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.csproj.GenerateResource.cache
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.AssemblyInfoInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.AssemblyInfo.cs
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.csproj.CoreCompileInputs.cache
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.dll
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\refint\DragDropRect.dll
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.pdb
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\DragDropRect.genruntimeconfig.cache
+G:\ITI_mobile cross\C#\Labs\Day11\DragDropRect\obj\Debug\net7.0-windows\ref\DragDropRect.dll
